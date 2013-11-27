@@ -19,7 +19,7 @@
     <!-- The name of the app -->
     <string name="app_name">File Manager</string>
     <!-- The description of the app -->
-    <string name="app_description">A CyanogenMod file manager</string>
+    <string name="app_description">A HellKat file manager</string>
 
     <!-- Human readable sizes -->
     <string name="size_bytes">B</string>
@@ -721,9 +721,9 @@
     <!-- Themes - Default theme name -->
     <string name="theme_default_name">Light Theme</string>
     <!-- Themes - Default theme description -->
-    <string name="theme_default_description">A light theme for CyanogenMod File Manager.</string>
+    <string name="theme_default_description">A light theme for HellKat File Manager.</string>
     <!-- Themes - Default theme author -->
-    <string name="themes_author">CyanogenMod</string>
+    <string name="themes_author">HellKat</string>
 
     <!-- ColorPickerDialog -->
     <!-- The text of the alpha slider control -->

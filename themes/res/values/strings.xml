@@ -18,5 +18,5 @@
 <resources>
     <!-- The dark theme strings -->
     <string name="dark_theme_name">Dark Theme</string>
-    <string name="dark_theme_desc">A dark theme for CyanogenMod File Manager.</string>
+    <string name="dark_theme_desc">A dark theme for HellKat File Manager.</string>
 </resources>
