@@ -22,12 +22,12 @@
     <!-- A black color with some transparency -->
     <color name="black_transparent">#99000000</color>
     <!-- A derivated blue from @android:color/holo_blue_light with some transparency -->
-    <color name="blue_transparent">#9933b5e5</color>
+    <color name="blue_transparent">#99e61c1c</color>
 
     <!-- Disk usage total color -->
     <color name="disk_usage_total">#7ecccccc</color>
     <!-- Disk usage used color -->
-    <color name="disk_usage_used">#7e0099cc</color>
+    <color name="disk_usage_used">#7ecd0000</color>
     <!-- Disk usage used color warning -->
     <color name="disk_usage_used_warning">#7eff4444</color>
     <!-- Disk usage used color filter normal -->
@@ -38,13 +38,13 @@
     <!-- Relevance - Border color -->
     <color name="relevance_border">#becccccc</color>
     <!-- Relevance - 0% ~ 50% -->
-    <color name="relevance_percentil_25">#bee89338</color>
+    <color name="relevance_percentil_25">#bee93838</color>
     <!-- Relevance - 25% ~ 50% -->
-    <color name="relevance_percentil_50">#bee8e238</color>
+    <color name="relevance_percentil_50">#bee93838</color>
     <!-- Relevance - 50% ~ 75% -->
-    <color name="relevance_percentil_75">#be45bc6c</color>
+    <color name="relevance_percentil_75">#bebd4646</color>
     <!-- Relevance - 75% ~ 100% -->
-    <color name="relevance_percentil_100">#be207da4</color>
+    <color name="relevance_percentil_100">#beab0303</color>
 
     <!-- A color for highlight text -->
     <color name="search_highlight">#ffffff00</color>
